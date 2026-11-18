@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.pvskhalsa.universalradio",
-      "sha256_cert_fingerprints": ["5C:60:E0:B5:26:60:BC:19:20:F5:C4:4B:17:71:DD:FE:3D:F8:E3:E0:E3:93:D0:5B:62:8D:63:28:72:8B:F6:B5"]
+      "sha256_cert_fingerprints": ["5C:60:E0:B5:26:60:BC:19:20:F5:C4:4B:17:71:DD:FE:3D:F8:E3:E0:E3:93:D0:5B:62:8D:63:28:72:8B:F6:B5", "1E:12:C6:CD:C9:DA:3D:9F:F1:BD:8D:13:29:D1:7B:DD:8A:CA:A9:DD:97:1A:D1:7F:EB:61:6A:B8:9C:99:08:8F"]
     }
   }
 ]
