@@ -1,1 +1,18 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.pvskhalsa.app.sachkhandkirtan","sha256_cert_fingerprints":["F5:49:3C:65:4C:3A:B7:D2:07:10:45:0C:DF:1C:23:A9:19:F2:88:4C:CE:80:37:7F:CF:4A:42:94:EF:D7:96:B0"]}}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pvskhalsa.app.sachkhandkirtan",
+      "sha256_cert_fingerprints": ["F5:49:3C:65:4C:3A:B7:D2:07:10:45:0C:DF:1C:23:A9:19:F2:88:4C:CE:80:37:7F:CF:4A:42:94:EF:D7:96:B0"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pvskhalsa.universalradio",
+      "sha256_cert_fingerprints": ["5C:60:E0:B5:26:60:BC:19:20:F5:C4:4B:17:71:DD:FE:3D:F8:E3:E0:E3:93:D0:5B:62:8D:63:28:72:8B:F6:B5"]
+    }
+  }
+]
